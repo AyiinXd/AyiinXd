@@ -2,6 +2,7 @@
 
 
 ## 📲 Kontak Developer [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/AyiinXd) 
+## 📲 Kontak Developer [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Contoldisini) 
 <br>
 
 [![Profile views](https://gpvc.arturio.dev/AyiinXd)](https://github.com/AyiinXd)
