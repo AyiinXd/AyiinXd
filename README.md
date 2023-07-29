@@ -1,5 +1,8 @@
 
-![AyiinXd](https://telegra.ph/file/fc99dc29db5d59d306e60.jpg)
+[<img src="./resources/hr.gif"/>](https://github.com/AyiinXd)
+<img align='right' src='https://telegra.ph/file/fc99dc29db5d59d306e60.jpg' width='360'/>
+ 
+<h1> <img src="./resources/hand.webp" width="30px"> I'AM AYIINXD </h1>
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
@@ -28,7 +31,7 @@
 
 [<img src="./resources/hr.gif"/>](https://github.com/AyiinXd)
 
-<h1> <href="./resources/hand.webp" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
+<h1> <img src="./resources/hand.webp" width="30px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
 class Ayiin(Xd):
@@ -58,7 +61,7 @@ class Ayiin(Xd):
 
 [<img src="./resources/hr.gif"/>](https://github.com/AyiinXd)
    
-## ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs
+<h1> <img src="./resources/github_icon.png" width="30px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
 [<img src="https://github-readme-stats.vercel.app/api?username=AyiinXd&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=AyiinXd%27S+Github+Stats:-&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/AyiinXd) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyiinXd&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/AyiinXd)
 
@@ -82,8 +85,6 @@ class Ayiin(Xd):
 
 
 <p align='Middle'><a href='https://t.me/AyiinXd><img src='./resources/telegram_icon.png' width='750"'></a></p>
-
-<img align="center" src="./resources/hand.webp" width='170'/>
 
 
 ```python
