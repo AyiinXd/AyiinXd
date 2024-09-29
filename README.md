@@ -63,20 +63,23 @@ class Ayiin extends Xd {
         return {
             py: 'Python', 
             js: 'JavaScript',
-            ts: 'TypeScript'
+            ts: 'TypeScript',
+            dart: 'Dart',
+            kotlin: 'Kotlin'
         }
     }
     public markupLanguages() {
         return {
             html: 'HTML',
             css: 'CSS',
-            react: 'React'
+            react: 'React',
+            reactNative: 'React-Native'
         }
     }
     public developerTools(){
         return {
           database: ['MongoDB', 'MySQL'],
-          editor: 'VsCode',
+          editor: ['VsCode', "Android Studio']
           git: 'Github',
           os: ['Debian', 'Heroku', 'Ubuntu'],
         }
