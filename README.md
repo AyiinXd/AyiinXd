@@ -79,7 +79,7 @@ class Ayiin extends Xd {
     public developerTools(){
         return {
           database: ['MongoDB', 'MySQL'],
-          editor: ['VsCode', 'Android Studio']
+          editor: ['VsCode', 'Android Studio'],
           git: 'Github',
           os: ['Debian', 'Heroku', 'Ubuntu'],
         }
