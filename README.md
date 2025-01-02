@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://github.com/AyiinXd/AyiinMusic">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyiinXd&repo=AyiinMusic&cache_seconds=86400&theme=gotham">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyiinXd&repo=YinsMusic&cache_seconds=86400&theme=gotham">
 </a>
 
 <a href="https://github.com/AyiinXd/YinsRobot">
